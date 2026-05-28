@@ -48,3 +48,9 @@ app.*.map.json
 .env
 
 assets/
+
+ios/
+linux/
+macos/
+windows/
+web/
